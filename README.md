@@ -11,7 +11,9 @@
     </tr>
     <tr>
         <td>
-            <img src="https://mega.nz/folder/fw5ilSwD#o01Ry92UIzzhlVQkSUHa0Q" height="50" alt="Descargar" >
+            <a href="https://mega.nz/folder/fw5ilSwD#o01Ry92UIzzhlVQkSUHa0Q">
+                <img src="https://github.com/nwpablodeveloper/img/blob/master/descargas-mega.jpeg" height="50" alt="Descargar" >
+            </a>
         </td>
     </tr>
     <tr>
@@ -23,7 +25,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/nwpablodeveloper/img/blob/master/como-descargar.jpg" height="50" alt="Descargar" >
+            <img src="https://github.com/nwpablodeveloper/img/blob/master/como-descargar.jpg" height="400" alt="Descargar" >
         </td>
     </tr>
 </table>
