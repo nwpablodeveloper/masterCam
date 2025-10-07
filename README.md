@@ -19,7 +19,7 @@
     <tr>
         <td>
             <p>
-                Desplegar botón CODE y descargar ZIP desde GitHub
+                Desplegar botón CODE y descargar ZIP de este repositorio en GitHub
             </p>
         </td>
     </tr>
