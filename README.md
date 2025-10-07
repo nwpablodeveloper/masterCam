@@ -6,7 +6,7 @@
 <table  style="width: 80%; margin: 0 auto; border: 0px solid #000;">
     <tr>
         <td>
-            <img src="/Llanta Sant Feliu/img/Llanta-Sant-Feliu-1.jpg" alt="Llanta" width="200" height="200">
+            <img src="/Llanta Sant Feliu/img/Llanta-Sant-Feliu-1.jpg" target="_blank" alt="Llanta" width="200" height="200">
         </td>
     </tr>
     <tr>
