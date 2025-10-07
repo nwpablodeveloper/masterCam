@@ -6,7 +6,7 @@
 <table  style="width: 80%; margin: 0 auto; border: 0px solid #000;">
     <tr>
         <td>
-            <a href="/llanta Sant Feliu" target="_blank">
+            <a href="Llanta%20Sant%20Feliu" >
                 <img src="/Llanta Sant Feliu/img/Llanta-Sant-Feliu-1.jpg" alt="Llanta" width="200" height="200">
             </a>
         </td>
