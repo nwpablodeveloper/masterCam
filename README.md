@@ -1,7 +1,7 @@
 # DISEÑOS 3D ELABORADOS EN MASTERCAM
 
 ### [Llanta Sant Feliu - Diseño para 5 Ejes](https://github.com/nwpablodeveloper/masterCam/releases)
-#### [Descargar por versión](https://github.com/nwpablodeveloper/masterCam/releases)
+#### [Descargar los ZIP por versión a tu conveniencia](https://github.com/nwpablodeveloper/masterCam/releases)
 
 
 <table  style="width: 80%; margin: 0 auto; border: 0px solid #000;">
