@@ -6,28 +6,9 @@
 <table  style="width: 80%; margin: 0 auto; border: 0px solid #000;">
     <tr>
         <td>
-            <a href="Llanta%20Sant%20Feliu" >
+            <a href="https://github.com/nwpablodeveloper/masterCam/releases" >
                 <img src="/Llanta Sant Feliu/img/Llanta-Sant-Feliu-1.jpg" alt="Llanta" width="200" height="200">
             </a>
         </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://mega.nz/folder/fw5ilSwD#o01Ry92UIzzhlVQkSUHa0Q"  target="_blank">
-                <img src="https://github.com/nwpablodeveloper/img/blob/master/descargas-mega.jpeg" height="50" alt="Descargar" >
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p>
-                Desplegar botón CODE y descargar ZIP de este repositorio en GitHub
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github.com/nwpablodeveloper/img/blob/master/como-descargar.jpg" height="400" alt="Descargar" >
-        </td>
-    </tr>
+    </tr>  
 </table>
